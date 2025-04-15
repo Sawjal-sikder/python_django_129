@@ -32,3 +32,22 @@ Iterate numbers from a list one by one using a for loop and calculate the square
 
 
 ### topic: python loop
+
+#### Question 2: Print first 10 natural numbers using for loop
+
+
+Expected output:
+```
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+```
+Hint:
+Iterate numbers from a list one by one using a for loop and calculate the square of the current number
