@@ -1,5 +1,5 @@
 # Exam subject: python
-#### Question 1: Print first 10 natural numbers using for loop
+## Question 1: Print first 10 natural numbers using for loop
 
 Expected output:
 ```
@@ -17,7 +17,7 @@ Expected output:
 
 
 
-#### Question 2: Calculate sum of all numbers from 1 to a given number
+## Question 2: Calculate sum of all numbers from 1 to a given number
 Write a Python program to accept a number from a user and calculate the sum of all numbers from 1 to a given number
 For example, if the user entered 10, the output should be 55 (1+2+3+4+5+6+7+8+9+10)
 
@@ -32,7 +32,7 @@ Using for loop and range() function
 
 
 
-#### Question 3: Print multiplication table of a given number
+## Question 3: Print multiplication table of a given number
 
 
 Given:
@@ -55,7 +55,7 @@ Expected output:
 ```
 
 
-#### Question 4:Display numbers from a list using a loop
+## Question 4:Display numbers from a list using a loop
 Write a Python program to display only those numbers from a list that satisfy the following conditions
 
 The number must be divisible by five
@@ -78,7 +78,7 @@ using break, continue and condation
 
 
 
-#### Question 5:  Print list in reverse order using a for loop
+## Question 5:  Print list in reverse order using a for loop
 
 
 Given:
@@ -98,7 +98,7 @@ Expected output:
 Hint:
 Using a reversed() function and for loop
 
-#### Question 6:  Display numbers from -10 to -1 using for loop
+## Question 6:  Display numbers from -10 to -1 using for loop
 
 Expected output:
 ```
@@ -116,7 +116,7 @@ Expected output:
 
 Hint:
 Using a range() and for loop
-#### Question 7: Calculate the cube of all numbers from 1 to a given number
+## Question 7: Calculate the cube of all numbers from 1 to a given number
 Write a Python program to print the cube of all numbers from 1 to a given number
 
 Given:
@@ -137,7 +137,7 @@ Current Number is : 6  and the cube is 216
 Hint:
 Using a range() and for loop
 
-#### Question 8: Create a function with variable length of arguments
+## Question 8: Create a function with variable length of arguments
 Write a program to create function func1() to accept a variable length of arguments and print their value.
 
 Given:
@@ -164,7 +164,7 @@ Expected output:
 
 Hint:
 Using a function() and for loop
-#### Question 9: Return multiple values from a function
+## Question 9: Return multiple values from a function
 
 Given:
 ```
@@ -177,7 +177,7 @@ Expected output:
 ```
 50, 30
 ```
-#### Question 10: Create a function with a default argument
+## Question 10: Create a function with a default argument
 Write a program to create a function show_employee() using the following conditions.
 
 It should accept the employee’s name and salary and display both.
@@ -197,7 +197,7 @@ Name: Jessa salary: 9000
 ```
 Hint:
 Default arguments take the default value during the function call if we do not pass them. We can assign a default value to an argument in function definition using the = assignment operator.
-#### Question 11: Turn every item of a list into its square
+## Question 11: Turn every item of a list into its square
 Given a list of numbers. write a program to turn every item of a list into its square.
 
 
@@ -214,7 +214,7 @@ Expected output:
 Hint:
 for loop and append to list
 
-#### Question 12: Concatenate two lists in the following order
+## Question 12: Concatenate two lists in the following order
 
 
 Given:
